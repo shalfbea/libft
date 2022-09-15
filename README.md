@@ -39,7 +39,7 @@ The full task can be found here: [libft_subject](https://github.com/shalfbea/lib
 - Only using c language is allowed
 - Code-style should respect the [The Norm](https://github.com/MagicHatJo/-42-Norm/blob/master/norme.en.pdf)
 - No memory leaks, segmentation faults, undefined behavior
-- Only allowed functions: malloc, write - but only fow a few functions
+- Only allowed functions: malloc, write - but only for a few functions
 
 ### Bonus:
 
